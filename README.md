@@ -7,7 +7,7 @@ represent various attributes, such as skill level, experience, workload capacity
 metric.
 
 Create functionality that:
-• accepts input data that includes a list of individuals, each associated with their name and
+- accepts input data that includes a list of individuals, each associated with their name and
 rate. Desired number of teams is also given.
 
 Sample:
@@ -22,7 +22,7 @@ name rate
 
 Number of teams: 3
 
-• returns selected teams. Summary of the outcome should be printed to the console in the
+- returns selected teams. Summary of the outcome should be printed to the console in the
 following format:
 Team no 1 has 2 players (Jude, Juliet). Average rate: 6.0
 Team no 2 has 2 players (Johnny, Robbie). Average rate: 6.5
